@@ -29,8 +29,6 @@ https://eduplay-demo.netlify.app/
 
 
 
-## Run Locally
-
 
 ## License
 
